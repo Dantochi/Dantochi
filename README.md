@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tochukwu Chidi======================================================================================================================================Python Dev----------I love learning a 🥹 but it's within the realms of web dev, machine learning and robotics.* 🌍  I'm based in Nigeria* ✉️  You can contact me at [chiditochukwudaniel@gmail.com](mailto:chiditochukwudaniel@gmail.com)* 🧠  I'm learning Tensorflow, later Pytorch and ROS* ⚡  Yahweh's beloved
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tochukwu Chidi
+======================================================================================================================================
+Python Dev
+----------
+I love learning a 🥹 but it's within the realms of web dev, machine learning and robotics.* 
+🌍  I'm based in Nigeria* ✉️  You can contact me at [chiditochukwudaniel@gmail.com](mailto:chiditochukwudaniel@gmail.com)* 
+🧠  I'm learning Tensorflow, later Pytorch and ROS* 
+⚡  Yahweh's beloved
 
 ### Skills
 
