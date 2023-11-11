@@ -8,7 +8,7 @@ I love learning a 🥹 but it's within the realms of web dev, machine learning a
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [chiditochukwudaniel@gmail.com](mailto:chiditochukwudaniel@gmail.com)
-*   🧠  I'm learning Tensorflow, later Pytorch and ROS
+*   🧠  I'm currently learning Tensorflow, later Pytorch and ROS
 *   ⚡  Yahweh's beloved
 
 ### Skills 
