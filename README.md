@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name Tochukwu and I'm a Tech enthusiast and Jesus Lover, from Nigeria.</p>
+<p align="left">My name Tochukwu and I'm a Jesus Lover and Tech enthusiast, from Nigeria.</p>
 
 ###
 
