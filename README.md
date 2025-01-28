@@ -17,5 +17,6 @@ I'm a tech enthusiast from Nigeria, currently based in Gateshead, UK. I have a p
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/tochukwu-chidi-9466b6156)
+- [Email](tochukwudanielchidi@gmail.com)
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions.
