@@ -9,7 +9,7 @@
 
 - 🌟 Aspiring researcher and developer in AI and Robotics
 - 🛠️ Skilled in:  
-  **Python**, **Pandas**, **Numpy**, **Java**, **SQL**, **Git**, **Scikit-learn**, **Matplotlib**
+  **Python**, **Pandas**, **Numpy**, **Java**, **SQL**, **Git**, **Scikit-learn**, **Matplotlib**, **Google Cloud**
 - 🤖 I love building intelligent systems that solve real-world problems
 
 ---
