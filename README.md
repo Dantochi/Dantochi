@@ -1,22 +1,51 @@
-# Hello, I'm Tochukwu Chidi 👋
+# 👋 Hi, I’m Tochukwu!
 
-I'm a tech enthusiast from Nigeria, currently based in Gateshead, UK. I have a passion for machine learning and AI, leveraging their capabilities to solve real-world problems. Additionally, I dabble in web development for side projects.
+🎓 **Computer Science Masters Student @ Northumbria University**  
+🔬 Passionate about **Machine Learning, Deep Learning, and Computer Vision**
 
-## About Me
+---
 
-- 🌱 **Currently Learning:** React
-- 🎯 **Goals:** To become the software developer you need
-- 🎉 **Fun Fact:** Yahweh is my LOVER
+## 🚀 About Me
 
-## Technologies I Work With
+- 🌟 Aspiring researcher and developer in AI and Robotics
+- 🛠️ Skilled in:  
+  **Python**, **Pandas**, **Numpy**, **Flutter**, **Java**, **Dart**, **SQL**, **Git**, **Scikit-learn**, **Matplotlib**
+- 🤖 I love building intelligent systems that solve real-world problems
 
-- **Programming Languages:** JavaScript, Python
-- **Web Development:** HTML5, CSS3, React, Bootstrap, Flask
-- **Tools & Frameworks:** Git, Selenium, Pandas
+---
 
-## Connect with Me
+## 🔥 Featured Project
 
-- [LinkedIn](https://www.linkedin.com/in/tochukwu-chidi-9466b6156)
-- [Email](tochukwudanielchidi@gmail.com)
+### Detecting Armed Bandits with Computer Vision
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or have any questions.
+A computer vision solution trained to detect armed bandits using **Roboflow**, **YOLOv5**, and **Python**.  
+*Harnessing AI to enhance safety and security.*
+
+---
+
+## 🌱 Interests
+
+- 🤖 Robotics
+- 👁️ Computer Vision
+- 📊 Data Science & Analytics
+
+---
+
+## 🌍 Find Me Online
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/tochukwu-chidi-9466b6156/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=flat-square)](https://x.com/tochukwu_chidi_)
+
+---
+
+## 🎮 Fun Facts
+
+- 🎶 I love gospel music
+- 🕹️ Enjoy playing games
+- ✝️ **Meet with JESUS today**
+
+---
+
+<!--
+**tochidan/tochidan** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+-->
