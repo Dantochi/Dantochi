@@ -19,7 +19,7 @@
 ### Detecting Armed Bandits with Computer Vision
 
 A computer vision solution trained to detect armed bandits using **Roboflow**, **YOLOv5**, and **Python**.  
-*Harnessing AI to enhance safety and security.* [![Link](https://gist.github.com/Dantochi/4273b9b73d14e40db28158a22e755685)
+*Harnessing AI to enhance safety and security.* [Link](https://gist.github.com/Dantochi/4273b9b73d14e40db28158a22e755685)
 
 ---
 
