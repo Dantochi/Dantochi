@@ -39,7 +39,7 @@ I build intelligent systems that solve real problems—focused on the **engineer
 ## Featured Projects
 
 - **[RAG Chatbot](https://github.com/Dantochi/PythonRAG)** — Full-stack retrieval-augmented chatbot with LangChain, ChromaDB, FastAPI, and Next.js
-- **[Weapon Detection](https://github.com/Dantochi/Masters_Projects)** — YOLOv5 + Roboflow computer vision model for aerial footage analysis
+- **[Weapon Detection](https://github.com/Dantochi/Weapon-Detection/blob/main/final_year_project.ipynb)** — YOLOv5 + Roboflow computer vision model for aerial footage analysis
 - **[Ledgar Chatbot](https://github.com/Dantochi/ledger-chatbot)** — TensorFlow QA chatbot built for a Solana hackathon
 
 ---
