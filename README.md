@@ -12,7 +12,7 @@
 
 🎓 **MSc Computer Science** @ Northumbria University (2024–2026), with a prior **BEng in Mechanical Engineering**.
 
-🤖 I build intelligent systems that solve real problems — and I'm increasingly focused on the **engineering** side of ML: the pipelines, services and infrastructure that take a model from a notebook into reliable production.
+🤖 I build intelligent systems that solve real problems — and I'm increasingly focused on the **engineering** side of ML: the pipelines, services and infrastructure that take a model from a notebook to production.
 
 - 🔭 Building **RAG pipelines**, training & deploying models, and shipping ML features behind **FastAPI** backends
 - 🌱 Going deep on **ML platform engineering** — Docker, Kubernetes, Terraform & Google Cloud
@@ -71,13 +71,13 @@
 
 ## 🚀 Featured Projects
 
-🔹 **[RAG Chatbot](https://github.com/Dantochi/REPLACE-WITH-REPO)** — a full-stack retrieval-augmented chatbot: a LangChain + ChromaDB data pipeline, a FastAPI backend, and a Next.js front end.
+🔹 **[RAG Chatbot](https://github.com/Dantochi/PythonRAG)** — a full-stack retrieval-augmented chatbot: a LangChain + ChromaDB data pipeline, a FastAPI backend, and a Next.js front end.
 
-🔹 **[Weapon Detection in Drone Footage](https://github.com/Dantochi/REPLACE-WITH-REPO)** — a YOLOv5 + Roboflow computer-vision model that detects weapons in aerial footage. *Led the AI workstream for a final-year research project.*
+🔹 **[Weapon Detection in Drone Footage](https://github.com/Dantochi/Masters_Projects)** — a YOLOv5 + Roboflow computer-vision model that detects weapons in aerial footage.
 
-🔹 **[Ledgar Chatbot](https://github.com/Dantochi/REPLACE-WITH-REPO)** — a TensorFlow question-and-answer chatbot built for a Solana hackathon.
+🔹 **[Ledgar Chatbot](https://github.com/Dantochi/ledger-chatbot)** — a TensorFlow question-and-answer chatbot built for a Solana hackathon.
 
-> 🔧 **To do:** swap the three links above for your real repos, then **pin these projects** (Customize your pins → select them). Add your ML platform project here once it's up.
+> 🔧 **Note:** Pin these projects on your GitHub profile for better visibility (Customize your pins → select them).
 
 ## 📊 GitHub Stats
 
