@@ -18,6 +18,12 @@ I build intelligent systems that solve real problems—focused on the **engineer
 
 ---
 
+## Currently Learning
+
+🚀 **Docker, Kubernetes, Terraform & Google Cloud**
+
+---
+
 ## Tech Stack
 
 **Languages:** Python, TypeScript, JavaScript, SQL, Java
